@@ -19,3 +19,7 @@
 #50 legs
 
 #Create a python script to solve this problem.
+
+#Code Goes below here
+
+
